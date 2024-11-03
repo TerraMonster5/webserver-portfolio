@@ -1,1 +1,0 @@
-from flask import Flask as Flask # BO55-JSR suggestion
